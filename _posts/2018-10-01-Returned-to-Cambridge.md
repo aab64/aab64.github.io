@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Astrid | News"
+title: "Returned to Cambridge"
 date: 2018-10-01
 ---
 
