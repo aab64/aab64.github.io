@@ -7,13 +7,11 @@ title: Astrid Boje | News
 	<h1>News</h1>
 </div>
 
-<div class="news-item">
-  <p>
-  <a>
-  <strong></strong>
-  </a>
-<br />
+<ul class="posts">
 
-</p>
-<p><br /></p>
-</div>
+  {% for post in site.posts %}
+    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+
