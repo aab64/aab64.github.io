@@ -1,2 +1,4 @@
 name: Astrid Boje | PhD Student
 markdown: kramdown
+
+theme: jekyll-theme-minimal
