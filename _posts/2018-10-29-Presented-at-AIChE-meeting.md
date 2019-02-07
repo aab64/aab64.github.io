@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Astrid | News"
+title: "Presented at AIChE"
 date: 2018-10-29
 ---
 
 <div class="title">
-	<h1>Presented my research at the AIChE conference</h1>
+	<h1>Presented at AIChE</h1>
 </div>
 
 <p>
