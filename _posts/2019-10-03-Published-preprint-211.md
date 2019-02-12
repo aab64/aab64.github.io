@@ -11,5 +11,5 @@ within the framework of our detailed population balance solver.
 </p>
 
 <div class="wrapper">
-  <img src="/images/c4e-preprint-211.png" style="border: 2px solid grey" height=auto width="250" class="left"></img>
+  <img src="/images/c4e_preprint_211.png" style="border: 2px solid grey" height=auto width="250" class="left"></img>
 </div>
