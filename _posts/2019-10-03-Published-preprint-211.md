@@ -10,4 +10,6 @@ It presents an algorithm to resolve broad particle size distributions more effic
 within the framework of our detailed population balance solver. 
 </p>
 
-<img src="/images/c4e-preprint-211.png" style="border: 2px solid grey" height=auto width="250" class="left"></img>
+<div class="wrapper">
+  <img src="/images/c4e-preprint-211.png" style="border: 2px solid grey" height=auto width="250" class="left"></img>
+</div>
