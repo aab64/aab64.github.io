@@ -5,7 +5,7 @@ date: 2018-10-03
 ---
 
 <div class="blurb"> 
-    <img src="aab64.github.io/images/c4e_preprint_211.png" style="border: 2px solid grey" height=auto width="250" class="left"></img>
+    <img src="/images/c4e_preprint_211.png" style="border: 2px solid grey" height=auto width="250" class="left"></img>
 	
 	  <div class="wrapper" style="float: right; text-align: justify">
       <p>
