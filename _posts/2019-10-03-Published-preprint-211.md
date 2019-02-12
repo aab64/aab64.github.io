@@ -9,3 +9,5 @@ I published a new preprint to the CoMo website:
 It presents an algorithm to resolve broad particle size distributions more efficiently 
 within the framework of our detailed population balance solver. 
 </p>
+
+<img src="/images/c4e-preprint-211.png" style="border: 2px solid grey" height=auto width="250" class="left"></img>
