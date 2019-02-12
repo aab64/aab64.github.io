@@ -4,7 +4,7 @@ title: "New preprint published"
 date: 2018-10-03
 ---
 
-<img src="/images/c4e_preprint_211.png"></img>
+<img src="/images/c4e_preprint_211.png" width="250px"></img>
  
 <p>
 I published a new preprint to the CoMo website: 
