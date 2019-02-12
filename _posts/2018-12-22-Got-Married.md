@@ -8,3 +8,5 @@ I got married over Christmas in Cape Town, South Africa. My <a href="https://jpj
 is also a graduate student, in his final year at MIT (the <i>other</i> Cambridge). 
 It's really exciting to be heading towards the next stage of our lives together. 
 </p>
+
+<img src="/images/Wedding.jpg" width="250"/>
