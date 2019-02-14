@@ -3,6 +3,7 @@ layout: post
 title: "Returned to Cambridge"
 date: 2018-10-01
 ---
+
 <p>
   I was fortunate to spend two years of my PhD working at the Cambridge 
   <a href="https://www.cares.cam.ac.uk/"><b>CARES</b></a> office in Singapore. 
@@ -13,8 +14,6 @@ date: 2018-10-01
 </p>
 
 <p>
-  <br/>
-  <br/>
   <br/>
   <br/>
 </p>
