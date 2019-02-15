@@ -4,7 +4,7 @@ title: "Returned to Cambridge"
 date: 2018-10-01
 ---
 
-<p>
+<p align="justify">
   I was fortunate to spend two years of my PhD working at the Cambridge 
   <a href="https://www.cares.cam.ac.uk/"><b>CARES</b></a> office in Singapore. 
   This provided a great opportunity to experience a different academic environment, 
