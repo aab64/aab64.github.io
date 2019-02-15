@@ -4,7 +4,7 @@ title: "Presented at AIChE"
 date: 2018-10-29
 ---
 
-<p>
+<p align="justify">
  I presented my work using a detailed population balance model to study the 
  industrial synthesis of titanium dioxide at the annual AIChE 
  (American Institute of Chemical Engineers) conference in Pittsburgh, USA. 
