@@ -5,5 +5,6 @@ theme: jekyll-theme-minimal
 
 permalink: /blog/:year/:month/:day/:title
 
+url: "https://aab64.github.io"
 plugins:
   - jekyll-sitemap
