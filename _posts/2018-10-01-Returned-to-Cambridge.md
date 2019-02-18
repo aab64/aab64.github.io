@@ -13,6 +13,8 @@ date: 2018-10-01
   I recently returned to Cambridge, where I will be based for the remainder of my PhD. 
 </p>
 
+<img src="/images/Me_in_Singapore.jpg" width="500"/>
+
 <p>
   <br/>
   <br/>
