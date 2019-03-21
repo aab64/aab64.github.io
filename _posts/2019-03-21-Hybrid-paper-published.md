@@ -12,6 +12,8 @@ date: 2019-03-21
  It presents an algorithm to resolve broad particle size distributions more efficiently within the framework of our detailed population balance solver. 
 </p>
 
+<img src="/images/c4e_preprint_211.png" width="500"/>
+
 <p>
   <br/>
   <br/>
