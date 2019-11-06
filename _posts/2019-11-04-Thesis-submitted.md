@@ -8,7 +8,7 @@ date: 2019-11-04
   I submitted my PhD thesis, "Detailed population balance modelling of industrial titania synthesis".
 </p>
 
-<img src="/images/thesis_submitted.JPG" width="500"/>
+<img src="/images/thesis_submitted.jpg" width="500"/>
 
 <p>
   <br/>
