@@ -5,7 +5,7 @@ date: 2019-11-04
 ---
 
 <p align="justify">
-  I submitted my PhD thesis, "Detailed population balance modelling of industrial titania synthesis".
+  I submitted my PhD thesis, <em>"Detailed population balance modelling of industrial titania synthesis"</em>.
 </p>
 
 <img src="/images/thesis_submitted.jpg" width="500"/>
