@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Presented at AIChE"
+title: "Presented at AIChE 2019"
 date: 2019-11-12
 ---
 
