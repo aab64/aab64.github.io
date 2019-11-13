@@ -9,7 +9,7 @@ I presented my work on development and application of a hybrid particle model fo
 </p>
 
 
-<img src="/images/Me_in_Orlando.jpg" width="250"/>
+<img src="/images/Me_in_Orlando.jpg" width="500"/>
  
 <p>
  <br/>
