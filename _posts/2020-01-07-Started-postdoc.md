@@ -11,7 +11,9 @@ date: 2020-01-07
   My project involves modelling chemical reaction kinetics and transport in nanoscale, heterogeneous catalysis. The goal is to develop understanding of catalyst behaviour and gas-phase flow dynamics, and to support experimental work on heterogeneous catalytic systems.
 </p>
 
-<!--img src="/images/Me_at_chalmers.JPG" width="500"/-->
+<img src="/images/Me_at_Chalmers.JPG" width="500"/>
+<img src="/images/Us_in_Gothenburg.JPG" width="500"/>
+
 
 <p>
   <br/>
