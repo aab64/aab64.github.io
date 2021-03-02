@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Poster at DPG Surface Science Meeting"
+title: "DPG Surface Science Meeting"
 date: 2021-03-01
 ---
 
