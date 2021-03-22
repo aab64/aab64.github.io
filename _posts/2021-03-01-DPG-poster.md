@@ -11,7 +11,7 @@ This week, I participated in the DPG (Deutsche Physikalische Gesellschaft / Germ
 <br/>
 <br/>
 I summarised this work in an <a href="https://aab64.github.io/blog/2020/10/21/Butadiene-preprint-published">earlier post</a> and 
-the paper can be found on <a href="https://doi.org/10.26434/chemrxiv.13118420.v1">ChemRxiv</a>. 
+the paper can be found on <a href="https://doi.org/10.26434/chemrxiv.13118420.v2">ChemRxiv</a>. 
 </p>
 
 <img src="/images/poster_platform3.JPG" width="500"/>
