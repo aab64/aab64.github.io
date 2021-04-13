@@ -14,7 +14,7 @@ I summarised this work in an <a href="https://aab64.github.io/blog/2020/10/21/Bu
 the paper, which is currently under review, can be found on <a href="https://doi.org/10.26434/chemrxiv.13118420.v2">ChemRxiv</a>. 
 </p>
 
-<a href="/images/poster.pdf"><img src="/images/slides_acs21.JPG" width="500"/></a> 
+<a href="20210407_acs_butadiene-compressed.pdf"><img src="/images/slides_acs21.JPG" width="500"/></a> 
 
 <p>
   <br/>
