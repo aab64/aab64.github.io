@@ -9,7 +9,7 @@ date: 2021-06-22
   <br/>
   <br/>  
   In this paper, we study photothermal rate enhancement in plasmon-mediated photocatalysis 
-  using the example of CO oxidation over nanofabricated neat Pd and Au50Pd50 alloy catalysts. 
+  using the example of CO oxidation over nanofabricated neat Pd and Au<sub>50</sub>Pd<sub>50</sub> alloy catalysts. 
   We find that rate enhancement differs by orders of magnitude depending on the position of 
   catalyst operation along the light-off curve measured in the dark, indicating that small 
   fluctuations in reactor temperature or temperature gradients across a sample may have a 
@@ -19,16 +19,13 @@ date: 2021-06-22
   We use first-principles informed microkinetic modelling to qualitatively rationalize the 
   distinct conversion profiles observed for the two catalyst materials in terms of the 
   influence of the underlying energetics on the kinetics.
-  <br/>
-  <br/>
-  The paper was published in ACS Nano and can be accessed <a href="https://pubs.acs.org/doi/10.1021/acsnano.1c01537">
-    here</a>. 
 </p>
 
 <img src="/images/ACSNano_TOC.gif" width="500"/>
 <br/>
 <p align="justify">
-  Tiburski, <strong>Boje</strong>, <em>et al.</em>, ACS Nano 2021 (ASAP). doi: 10.1021/acsnano.1c01537. 
+  Tiburski, <strong>Boje</strong>, <em>et al.</em>, ACS Nano 2021 (ASAP). doi: <a href="https://pubs.acs.org/doi/10.1021/acsnano.1c01537">
+    10.1021/acsnano.1c01537</a>.
 </p>
 
 <p>
