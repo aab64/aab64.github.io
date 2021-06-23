@@ -22,9 +22,9 @@ date: 2021-06-22
 </p>
 
 <img src="/images/ACSNano_TOC.gif" width="500"/>
-<br/>
+
 <p align="justify">
-  Tiburski, <strong>Boje</strong>, <em>et al.</em>, ACS Nano 2021 (ASAP). doi: <a href="https://pubs.acs.org/doi/10.1021/acsnano.1c01537">
+  Figure credit: Tiburski, <strong>Boje</strong>, <em>et al.</em>, ACS Nano 2021 (ASAP). doi: <a href="https://pubs.acs.org/doi/10.1021/acsnano.1c01537">
     10.1021/acsnano.1c01537</a>.
 </p>
 
