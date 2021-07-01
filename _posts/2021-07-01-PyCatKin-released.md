@@ -27,9 +27,11 @@ date: 2021-07-01
   <br/>
   I developed PyCatKin over the course of my postdoc at Chalmers and 
   used it to perform kinetics calculations in several publications, including:    
- - <a href="https://pubs.acs.org/doi/10.1021/acsnano.1c01537">CO oxidation on nanoparticles</a>  
- - <a href="https://doi.org/10.26434/chemrxiv.13118420.v2">Ethanol conversion to 1,3-butadiene on MgO</a>  
- - <a href="https://doi.org/10.1021/acs.jpcc.1c04062">Direct methane conversion to methanol in Cu-SSZ-13</a>.
+ <ul>
+  <li><a href="https://pubs.acs.org/doi/10.1021/acsnano.1c01537">CO oxidation on nanoparticles</a></li>
+  <li><a href="https://doi.org/10.26434/chemrxiv.13118420.v2">Ethanol conversion to 1,3-butadiene on MgO</a></li>
+  <li><a href="https://doi.org/10.1021/acs.jpcc.1c04062">Direct methane conversion to methanol in Cu-SSZ-13</a>.</li>
+ </ul>
 </p>
 
 <p>
