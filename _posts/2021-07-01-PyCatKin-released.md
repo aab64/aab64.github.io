@@ -9,7 +9,9 @@ date: 2021-07-01
   The Python Catalysis Kinetics (PyCatKin) toolset is an object-oriented Python package 
   to perform kinetics calculations including microkinetic modelling and energy span analysis.  
   <br/>
+  <br/>
   <img src="/images/avatar.png" width="250"/>
+  <br/>
   <br/>
   The core of the code is a set of modules in which states are loaded 
   (for example, using energies from first-principles calculations), 
@@ -19,7 +21,9 @@ date: 2021-07-01
   There is also an energy module for drawing and assessing reaction energy landscapes 
   and considering rate determining states. 
   <br/>
+  <br/>
   <img src="/images/code_layout.svg" width="500"/>
+  <br/>
   <br/>
   I developed PyCatKin over the course of my postdoc at Chalmers and 
   used it to perform kinetics calculations in several publications, including:    
