@@ -5,9 +5,9 @@ date: 2021-08-04
 ---
 
 <p align="justify">
-  I published a new preprint with my PhD supervisor: 
+  I published a new preprint with my PhD supervisor titled  
   <a href="https://como.ceb.cam.ac.uk/preprints/278/">
-    Detailed modelling of aerosol growth dynamics. 
+  Detailed modelling of aerosol growth dynamics. 
   </a>
   <br/>
   <br/>
