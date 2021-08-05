@@ -17,6 +17,9 @@ date: 2021-08-04
   Numerical methods of varying complexity are developed and applied to better understand the way particles form and grow under relevant conditions, 
   and to support experimental observations of particle structure. 
   <br/>
+  
+  <img src="/images/review_TOC.png" width="500"/>
+  
   <br/>
   Our review focuses on stochastic/Monte Carlo methods, which are best suited to simultaneous, extensive characterisation of both chemistry and particle geometry 
   in organic and inorganic systems, with other population balance modelling strategies discussed to contextualise the stochastic approach. 
@@ -25,8 +28,6 @@ date: 2021-08-04
   required to provide statistical resolution of broad particle size distributions and highly polydisperse particle systems. 
   In addition, good coupling to (turbulent) transport is an open challenge.
 </p>
-
-<img src="/images/review_TOC.png" width="500"/>
 
 <p>
   <br/>
