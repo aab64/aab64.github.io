@@ -11,7 +11,7 @@ date: 2021-09-18
   enter Senate House for the ceremony, and have lunch in the college dining hall afterwards! Guests are not allowed 
   to attend the ceremony at the moment to limit the number of people in the hall, 
   so it was <a href="https://www.youtube.com/watch?v=wbChq_IbpKI&ab_channel=HTempestGraduations/"><b>live-streamed</b></a> and 
-  my family in South Africa were able to watch too!
+  my family in South Africa could watch too!
 </p>
 
 <img src="/images/grad1.jpg" width="300"/>
