@@ -14,7 +14,7 @@ date: 2021-09-18
   my family in South Africa were able to watch too!
 </p>
 
-<img src="/images/grad1.jpg" width="500"/>
+<img src="/images/grad1.jpg" width="300"/>
 
 <p>
   <br/>
