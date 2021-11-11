@@ -18,7 +18,7 @@ date: 2021-11-11
   at which I am presenting talk number two!
 </p>
 
-<img src="/images/Me_in_Boston.JPG" width="250"/>
+<img src="/images/Me_in_Boston.jpg" width="250"/>
  
 <p>
  <br/>
