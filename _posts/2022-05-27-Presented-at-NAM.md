@@ -4,6 +4,10 @@ title: "Presented at NAM 2022"
 date: 2022-05-27
 ---
 
+<img src="/images/NAM27_ny.jpg" width="125"/>
+<img src="/images/NAM27_talk.jpg" width="250"/>
+<img src="/images/NAM_me.jpg" width="125"/>
+
 <p align="justify">
  I had the opportunity to present work from my Chalmers postdoc at the 27th North American Catalysis Society Meeting in New York. The talk was about first-principles based 
   kinetic modelling using two approaches to investigate the MgO-catalysed conversion of ethanol to 1,3-butadiene. 
@@ -13,10 +17,6 @@ date: 2022-05-27
   <br/>
   <br/>
 </p>
-
-<img src="/images/NAM27_ny.jpg" width="125"/>
-<img src="/images/NAM27_talk.jpg" width="250"/>
-<img src="/images/NAM27_me.jpg" width="125"/>
  
 <p>
  <br/>
