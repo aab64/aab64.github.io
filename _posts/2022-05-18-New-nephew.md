@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Newphew"
+title: "New Nephew"
 date: 2022-05-18
 ---
 
@@ -9,7 +9,7 @@ date: 2022-05-18
   I was really lucky to be able to visit them in Boston the week that Henry was born. 
   <br/>
   <br/>
-  Welcome, Tiny Nephew! Congratulations Alexa and Dave!
+  <strong>Welcome, Tiny Nephew! Congratulations Alexa and Dave!</strong>
   <br/>
   <br/>
 </p>
