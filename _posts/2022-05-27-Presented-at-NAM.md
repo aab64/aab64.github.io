@@ -5,7 +5,7 @@ date: 2022-05-27
 ---
 
 <img src="/images/NAM27_ny.jpg" width="125"/>
-<img src="/images/NAM27_talk.jpg" width="250"/>
+<img src="/images/NAM27_talk.png" width="250"/>
 <img src="/images/NAM_me.jpg" width="125"/>
 
 <p align="justify">
