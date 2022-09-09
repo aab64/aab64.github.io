@@ -1,0 +1,331 @@
+%% start of file `template.tex'.
+%% Copyright 2006-2013 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+
+\documentclass[11pt,a4paper,sans]{moderncv}   % options: font size ('10pt', '11pt', '12pt'), paper size ('a4paper'), font family ('sans', 'roman')
+\moderncvstyle{banking}                       % options: 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{grey}                          % options: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+%\renewcommand{\familydefault}{\sfdefault}    % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+\usepackage[utf8]{inputenc}                   % if you are not using xelatex ou lualatex, replace by the encoding you are using
+\usepackage[scale=0.83]{geometry}             % adjust the page margins
+\usepackage{import}
+\usepackage{mhchem}
+%\setlength{\hintscolumnwidth}{3cm}           % if you want to change the width of the column with the dates
+%\nopagenumbers{}                             % uncomment to suppress automatic page numbering for CVs longer than one page
+\def\CC{{\textsc{C\nolinebreak[4]\hspace{-.05em}\raisebox{.4ex}{\tiny\textbf{++}}}}}
+\def\addls{\vspace{2pt}}
+\definecolor{royalblue}{RGB}{65,105,225}
+\definecolor{dodgerblue}{RGB}{30,144,255}
+
+
+\name{Astrid}{Boje}
+\title{Curriculum Vitae}
+\address{AstraZeneca, Pepparedsleden 1, 431 50 M{\"o}lndal, Sweden}{}{}
+\phone[mobile]{+46 (0)73 840 1129}
+\email{astrid.boje@astrazeneca.com}
+\homepage{aab64.github.io}
+\photo[64pt][0.4pt]{picture.jpg}              % '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame
+
+% to show numerical labels in the bibliography; only useful if you make citations in your resume
+%\makeatletter
+%\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
+%\makeatother
+% bibliography with mutiple entries
+%\usepackage{multibib}
+%\newcites{book,misc}{{Books},{Others}}
+
+\begin{document}
+	
+	\makecvtitle
+	
+	\small{\textbf{Senior scientist in process modelling at AstraZeneca. Chemical engineer. Background in stochastic population balance and first-principles-informed kinetic modelling. Dual master's in mathematics, scientific computing.}}
+	
+	\addls
+	
+	\section{Experience}
+	
+	\addls
+	
+	\subsection{Work experience}
+	
+	\addls
+	
+	\begin{itemize}
+		
+		\item{\cventry{2021--}{Senior Scientist -- Process Modelling}{AstraZeneca}{Sweden}{}{\vspace{3pt}Develop mechanistic process models and digital twins for manufacturing platforms in oral product development.}}
+		
+		\item{\cventry{2020--2021}{Postdoc in Chemical Physics}{Chalmers University of Technology}{Sweden}{}{\vspace{3pt}Developed first-principles-informed, multiscale models for studying chemical kinetics in nanoreactors and on surfaces. Developed simulation tools in Python and Matlab (\textcolor{royalblue}{\url{https://github.com/aab64}}), with calculations in VASP.}}
+		
+		\addls	
+		
+		\item{\cventry{2015--2019}{Ph.D. Student in Chemical Engineering and Biotechnology}{University of Cambridge}{United Kingdom}{}{\vspace{3pt}Developed Monte Carlo methods (in-house {\CC} code: \textcolor{royalblue}{\url{https://github.com/ucam-ceb-como/MOpS}}) to solve population balance equations for aerosol synthesis. Proposed reactor model for titanium dioxide synthesis and new method to improve performance of the stochastic solver.}}
+		
+		\addls
+		
+		\item{\cventry{2014}{Intern in Experimental Thermal Fluid Dynamics}{Helmholtz Zentrum Dresden Rossendorf}{Germany}{}{\vspace{3pt}Developed 1D, dynamic, multicomponent model for a slurry bubble column reactor for Fischer-Tropsch synthesis.}}
+		
+		\addls
+		
+		\item{\cventry{2013}{Graduate Engineer in Measurement and Control}{Mintek}{South Africa}{}{\vspace{3pt}Researched viability of thickener control. Documented models developed for the control framework (in-house {\CC} code). Contributed to on-site testing and data analysis for a flotation reagent controller.}}
+		
+		\addls
+		
+		\item{\cventry{2011--2012}{Engineering Intern in Measurement and Control}{Mintek}{South Africa}{}{\vspace{3pt}Developed a temperature-dependent amperometry model for inclusion in a commercial cyanide measurement device.}}
+		
+	\end{itemize}
+	
+	\addls
+	
+	\subsection{Teaching experience}
+	
+	\addls
+	
+	\begin{itemize}
+		
+		\item{\cventry{2019}{Supervisor for Partial Differential Equations Course}{University of Cambridge}{United Kingdom}{}{\vspace{3pt}Small-group teaching and tutorials for students in the Part IIA year of the Chemical Engineering Tripos.}}
+		
+	\end{itemize}
+	
+	\addls
+	
+	\section{Academic qualifications}
+	
+	\addls
+	
+	\begin{itemize}
+		\item{\cventry{2015--2021}
+			{Ph.D. Chemical Engineering}
+			{Churchill College, University of Cambridge}
+			{United Kingdom}
+			{}
+			{Modelling of combustion synthesis using stochastic methods for better understanding of the titanium dioxide process. Some research work conducted at the Cambridge CARES facilities at the National University of Singapore. \\
+				Supervisor: Prof.~Markus Kraft.}}
+		
+		\addls
+		
+		\item{\cventry{2014--2015}
+			{M.Sc. Scientific Computing}
+			{Technical University of Berlin (TUB)}
+			{Germany}
+			{\textit{1.2, ``Sehr Gut''}}
+			{Coursework in control theory, differential algebraic equations, optimal control of partial differential equations, and model order reduction. Thesis on convergence of stochastic coagulating particle systems with Weierstrass Institute of Applied Analysis and Stochastics (WIAS).\\
+				Supervisors: Dr.~Robert Patterson (WIAS) and Prof. Dr.~Wolfgang K{\"o}nig (TUB, WIAS).}}
+		
+		\addls
+		
+		\item{\cventry{2013--2014}
+			{M.Sc. Mathematics}
+			{Royal Institute of Technology (KTH)}
+			{Sweden}
+			{\textit{A, ``Excellent''}}
+			{Coursework covered stochastic differential equations, parallel and high-performance computing, fast numerical algorithms, mathematical modelling, finite element and finite volume methods, and non-linear optimisation.}} 
+		
+		\addls
+		
+		\item{\cventry{2009--2012}
+			{B.Sc. Eng. Hons. (Chemical Engineering)}
+			{University of Cape Town (UCT)}
+			{South Africa}
+			{\textit{First Class}}
+			{Coursework included mathematics, physics, chemistry, thermodynamics, numerical methods, process design, modelling, and control, and post-graduate level coursework in optimisation. Honours project modelling Fischer Tropsch synthesis.\\
+				Supervisor: Prof.~Klaus Moller.}}
+		
+	\end{itemize}
+	
+	\addls
+	
+	\section{Technical skills}
+	
+	\addls
+	
+	\begin{itemize}
+		
+		\item \textbf{Programming languages:} \CC, \textsc{Matlab}, \textsc{Python}. 
+		
+		\addls
+		
+		\item \textbf{Simulation software:} \textsc{ASE}, \textsc{Aspen HYSYS}, \textsc{COMSOL Multiphysics}, \textsc{gPROMS}, \textsc{VASP}. 
+		
+		\addls
+		
+		\item \textbf{General proficiencies:} Git, HPC, \LaTeX, Linux, Microsoft Windows, MPI/OpenMP and parallel programming, Slurm.
+		
+	\end{itemize}
+	
+	\addls
+	
+	\section{Achievements}
+	
+	\addls
+	
+	\begin{itemize}
+		
+		\item{\textbf{Cambridge University Ph.D. Studentships}\hfill{\textit{2015--2019}}\\
+			{Cambridge Centre for Advanced Research \& Education in Singapore; Chemical Engineering \& Biotechnology Department}} 
+		
+		\addls
+		
+		\item{\textbf{COSSE Double Master's Programme}\hfill{\textit{2013--2015}}\\
+			{Erasmus Mundus Scholarship}} 
+		
+		\addls
+		
+		\item{\textbf{Mintek}\hfill\textit{{2011--2012}}\\
+			{Undergraduate Bursary}} 
+		
+		\addls
+		
+		\item{\textbf{University of Cape Town, Faculty of Engineering}\hfill{\textit{2009--2012}}\\
+			{Entrance Scholarship (2009), Dean's Merit List (2010--2012)}} 
+		%
+		%\vspace{4pt}
+		%	
+		%	\item{\textbf{Independent Examinations Board (IEB)}\hfill{\textit{2008}}\\
+		%		{Top 40 IEB Matriculants in South Africa}} 
+		%	
+		%\vspace{4pt}
+		%	
+		%\item{\textbf{Our Lady of Fatima Convent School}\hfill{\textit{2008}}\\
+		%	{DUX student. Subject trophies for Physics, Biology, Mathematics \& Physics, English, Afrikaans, Bilingualism, History, Life Orientation}} 
+		
+		\addls
+		
+		\item{\textbf{Kwa-Zulu Natal Youth Dance Company}\hfill{\textit{2006--2008}}\\
+			{Provincial ballet dancer}} 
+		
+	\end{itemize}
+	
+	\addls
+	
+	\section{Extracurricular activities}
+	
+	\addls
+	
+	\begin{itemize}
+		
+		\item{\textbf{Cambridge University Ballet Club} (2015--2016, 2018--2019). Performed in Don Quixote, 2019.}
+		
+		\addls
+		
+		\item{\textbf{Churchill College Boat Club} (2015--2016, 2018--2019). Rowed in women's second boat, 2015--2016. Sub for women's first and second boats, 2018--2019.}
+		
+	\end{itemize}
+	
+	\addls
+	
+	\section{Publications}	
+	
+	\addls
+	
+	\begin{itemize}
+		
+		\item{Levin, S., Lerch, S., \textbf{{Boje}, A.}, Fritzsche, J., KK, S., Str\"om, H., Moth-Poulsen, K., Sundén, H., Hellman, A., Westerlund, F., Langhammer, C., 2022. Nanofluidic Trapping of Faceted Colloidal Nanocrystals for Parallel Single-Particle Catalysis. \textit{ACS Nano} (Accepted). doi: \textcolor{royalblue}{\href{https://doi.org/10.1021/acsnano.2c06505}{10.1021/acsnano.2c06505}}.}
+		
+		\addls
+		
+		\item{\textbf{{Boje}, A.}, {Kraft}, M., 2022. Stochastic population balance methods for detailed modelling of flame-made aerosol particles. \textit{Journal of Aerosol Science} 159, 105895. doi: \textcolor{royalblue}{\href{https://doi.org/10.1016/j.jaerosci.2021.105895}{10.1016/j.jaerosci.2021.105895}}.}
+		
+		\addls
+		
+		\item{\textbf{Boje, A.}, Taifan, W. E., Str\"om, H., Bu\v{c}ko, T., Baltrusaitis, J., Hellman, A., 2021. First-principles-informed energy span and microkinetic analysis of ethanol catalytic conversion to 1,3-butadiene on MgO. \textit{Catalysis Science and Technology} 11, 6682--6694. doi: \textcolor{royalblue}{\href{https://doi.org/10.1039/D1CY00419K}{10.1039/D1CY00419K}}.}
+		
+		\addls
+		
+		\item{Engedahl, U., \textbf{Boje, A.}, Str\"om, H., Gr\"onbeck, H., Hellman, A., 2021. Complete Reaction Cycle for Methane-to-Methanol Conversion over Cu-SSZ-13: First-Principles Calculations and Microkinetic Modeling. \textit{The Journal of Physical Chemistry C} 125, 14681--14688. doi:  \textcolor{royalblue}{\href{https://doi.org/10.1021/acs.jpcc.1c04062}{10.1021/acs.jpcc.1c04062}}.}
+		
+		\addls
+		
+		\item{Tiburski, C., \textbf{Boje, A.}, Nilsson, S., Say, Z., Fritzsche, J., Str\"om, H., Hellman, A., Langhammer, C., 2021. Light-Off in Plasmon-Mediated Photocatalysis. \textit{ACS Nano} 15, 11535--11542. doi:  \textcolor{royalblue}{\href{https://pubs.acs.org/doi/10.1021/acsnano.1c01537}{10.1021/acsnano.1c01537}}.}
+		
+		\addls
+		
+		\item{Albinsson, D., \textbf{Boje, A.}, Nilsson, S., Tiburski, C., Hellman, A., Str\"om, H., Langhammer, C., 2020. Copper Catalysis at Operando Conditions–Bridging the Gap between Single Nanoparticle Probing and Catalyst-Bed-Averaging. \textit{Nature Communications} 11, 4832. doi:  \textcolor{royalblue}{\href{https://www.nature.com/articles/s41467-020-18623-1}{10.1038/s41467-020-18623-1}}.}
+		
+		\addls
+		
+		\item{\textbf{Boje, A.}, {Akroyd}, J., {Sutcliffe}, S., {Kraft}, M., 2020. Study of industrial titania synthesis using a hybrid particle-number and detailed particle model. \textit{Chemical Engineering Science} 219, 115615. doi:  \textcolor{royalblue}{\href{https://doi.org/10.1016/j.ces.2020.115615}{10.1016/j.ces.2020.115615}}.}
+		
+		\addls
+		
+		\item{\textbf{{Boje}, A.}, {Akroyd}, J., {Kraft}, M., 2019. A hybrid particle-number and particle model for efficient solution of population balance equations. \textit{Journal of Computational Physics} 389, 189--218. doi: \textcolor{royalblue}{\href{https://doi.org/10.1016/j.jcp.2019.03.033}{10.1016/j.jcp.2019.03.033}}.}
+		
+		\addls
+		
+		\item{\textbf{Boje, A.}, {Akroyd}, J., {Sutcliffe}, S., {Edwards}, J., {Kraft}, M., 2017. Detailed population balance modelling of \ce{TiO2} synthesis in an industrial reactor.  \textit{Chemical Engineering Science} 164, 219--231. doi: \textcolor{royalblue}{\href{https://doi.org/10.1016/j.ces.2017.02.019}{10.1016/j.ces.2017.02.019}}.}
+		
+	\end{itemize}
+	
+	\addls
+	
+	\section{Conferences}
+	
+	\addls
+	
+	\begin{itemize}
+		\item{\textbf{\textsc{Boje}, A.}, Taifan, W. E., Str\"om, H., Bu\v{c}ko, T., Baltrusaitis, J., Hellman, A., 2022. Kinetics of MgO-Catalyzed Ethanol Conversion to 1,3-Butadiene. Talk presented at \textit{The 27th North American Catalysis Society Meeting}.}
+		
+		\item{\textbf{\textsc{Boje}, A.}, Taifan, W. E., Str\"om, H., Bu\v{c}ko, T., Baltrusaitis, J., Hellman, A., 2021. Kinetic modelling of ethanol conversion to 1,3-butadiene on MgO and implications for catalyst design. Talk presented at \textit{AIChE Fall Meeting}.}
+		
+		\addls
+		
+		\item{\textbf{\textsc{Boje}, A.}, Str\"om, H., Hellman, A., 2021. First-principles-informed kinetic modelling in operando catalysis studies: CO oxidation on metal nanoparticles. Talk presented at \textit{AIChE Fall Meeting}.}
+		
+		\addls
+		
+		\item{\textbf{\textsc{Boje}, A.}, Taifan, W. E., Str\"om, H., Bu\v{c}ko, T., Baltrusaitis, J., Hellman, A., 2021. Exploring the free energy landscape: Comparison of kinetic models for MgO-catalyzed ethanol conversion to 1,3-butadiene. Talk presented at \textit{ACS Spring Meeting}.}
+		
+		\addls
+		
+		\item{\textbf{\textsc{Boje}, A.}, Taifan, W. E., Str\"om, H., Bu\v{c}ko, T., Baltrusaitis, J., Hellman, A., 2021. Performance and predictions of kinetic models for MgO-catalyzed ethanol conversion to butadiene. Poster presented at \textit{DPG Surface Science Meeting}.}
+		
+		\addls
+		
+		\item{\textbf{\textsc{Boje}, A.}, Albinsson, D., Langhammer, C., Str\"om, H., Hellman, A., 2020. Multiscale modelling of CO oxidation on copper nanoparticles in nanoreactors. Talk presented at \textit{ACS Postdoc Symposium (invited)}.}
+		
+		\addls
+		
+		\item{\textbf{\textsc{Boje}, A.}, Albinsson, D., Langhammer, C., Str\"om, H., Hellman, A., 2020. Multiscale modelling of CO oxidation on copper nanoparticles in nanoreactors. Talk presented at \textit{ACS CATL Division ChemistsLive (invited)}.}
+		
+		\addls
+		
+		\item{\textbf{\textsc{Boje}, A.}, Albinsson, D., Langhammer, C., Str\"om, H., Hellman, A., 2020. Multiscale modelling of CO oxidation on copper nanoparticles in nanoreactors. Talk presented at \textit{ACS Fall Meeting}.}
+
+		\addls
+
+		\item{\textbf{\textsc{Boje}, A.}, {Akroyd}, J., {Kraft}, M., 2019. Detailed population balance modelling using a hybrid particle model. Talk presented at \textit{AIChE Fall Meeting}.}
+		
+		\addls
+		
+		\item{\textbf{\textsc{Boje}, A.}, {Akroyd}, J., {Kraft}, M., 2019. Using a hybrid particle-number and particle model to study inorganic combustion synthesis. Talk presented at \textit{Combustion Aerosol Conference}.}
+		
+		\addls
+		
+		\item{\textbf{\textsc{Boje}, A.}, {Akroyd}, J., {Kraft}, M., 2018. Numerical study of the evolution of particle size and morphology in an industrial titanium dioxide reactor. Talk presented at \textit{AIChE Fall Meeting}.}
+		
+		\addls
+		
+		\item{\textbf{\textsc{Boje}, A.}, {Kraft}, M., 2017. Computational study of temperature effects in TiO$_2$ synthesis in an industrial reactor. Poster presented at \textit{Cambridge Particle Meeting}.}
+		
+	\end{itemize}
+	
+	%\section{References}
+	%
+	%\addls
+	%
+	%\begin{itemize}
+	%	
+	%	\item{\textbf{Prof. Dr.~Markus Kraft}\hfill{\href{mailto:mk306@cam.ac.uk}{mk306@cam.ac.uk}}\\
+	%		{Academic Ph.D. supervisor (University of Cambridge)}}	
+	%	
+	%\addls
+	%	
+	%	\item{\textbf{Dr.~Stephen Sutcliffe}\hfill{\href{mailto:sutcliffe4832@gmail.com}{sutcliffe4832@gmail.com}}\\
+	%		{Industrial Ph.D. supervisor (Venator)}}
+	%	
+	%\end{itemize}
+	
+\end{document}
