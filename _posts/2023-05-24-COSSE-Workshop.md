@@ -13,7 +13,7 @@ COSSE</a> (Computer Simulations for Science and Engineering) master's programme 
 The programme provided a solid basis in the theory and application of numerical methods for solving engineering problems, enabling my further graduate studies and subsequent career in scientific modelling and simulation. 
 <br/>
 <br/>
-The workshop provided an opportunity to reconnect with other alumni and my previous lecturers, as well as interact with the current cohort of students. 
+The workshop was an opportunity to reconnect with other alumni and my previous lecturers, as well as interact with the current cohort of students. 
 I gave a talk about my current work in process modelling in pharmaceutical product development at AstraZeneca, and the day ended with a sunset boat cruise around the Stockholm archipelago.
 <br/>
 <br/>
